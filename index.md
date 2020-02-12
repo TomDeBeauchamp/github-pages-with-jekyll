@@ -1,3 +1,3 @@
-# Welcome to my blog
+# this is my blog about Meatdata! 
 
-I'm glad you are here. I plan to talk about ...
+We're gonna talk about Meat and Data! 
